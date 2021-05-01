@@ -346,3 +346,24 @@ h3{
         font-size: 24px;
     }
 }
+
+/* Footer Section */
+
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.footer h4{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.icon .fa{
+    color:#5d5af5;
+    margin: 0 13px;
+    cursor: pointer;
+    padding:18px;
+}
